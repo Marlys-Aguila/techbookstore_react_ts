@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "titulo": "El arte de programar computadoras",
+    "autor": "Donald E. Knuth",
+    "descripcion": "Una serie de libros que abordan los algoritmos en profundidad.",
+    "precio": 45000,
+    "imgUrl": "/imgs/arte-programar-computadoras.jpg"
+  },
+  {
+    "id": 2,
+    "titulo": "Design Patterns",
+    "autor": "Erich Gamma",
+    "descripcion": "Introducción a los patrones de diseño orientados a objetos.",
+    "precio": 32000,
+    "imgUrl": "/imgs/patrones-diseno.jpg"
+  },
+  {
+    "id": 3,
+    "titulo": "Structure and Interpretation of Computer Programs",
+    "autor": "Harold Abelson",
+    "descripcion": "Introducción a la programación usando Scheme.",
+    "precio": 38000,
+    "imgUrl": "/imgs/structure-interpretation-computer-programs.jpg"
+  },
+  {
+    "id": 4,
+    "titulo": "Introducción a los algoritmos",
+    "autor": "Thomas H. Cormen",
+    "descripcion": "Un compendio exhaustivo de algoritmos.",
+    "precio": 50000,
+    "imgUrl": "/imgs/introduccion-algoritmos.jpg"
+  },
+  {
+    "id": 5,
+    "titulo": "Refactoring",
+    "autor": "Martin Fowler",
+    "descripcion": "Mejorando el diseño de código existente.",
+    "precio": 37000,
+    "imgUrl": "/imgs/refactoring.jpg"
+  },
+  {
+    "id": 6,
+    "titulo": "Código Limpio",
+    "autor": "Robert C. Martin",
+    "descripcion": "Una guía para producir código de alta calidad.",
+    "precio": 42000,
+    "imgUrl": "/imgs/codigo-limpio.jpg"
+  },
+  {
+    "id": 7,
+    "titulo": "You Don't Know JS",
+    "autor": "Kyle Simpson",
+    "descripcion": "Serie profunda sobre los fundamentos de JavaScript.",
+    "precio": 31000,
+    "imgUrl": "/imgs/you-dont-know-js.jpg"
+  },
+  {
+    "id": 8,
+    "titulo": "The Pragmatic Programmer",
+    "autor": "Andrew Hunt",
+    "descripcion": "Consejos prácticos para programadores.",
+    "precio": 40000,
+    "imgUrl": "/imgs/pragmatic-programmer.jpg"
+  }
+]
